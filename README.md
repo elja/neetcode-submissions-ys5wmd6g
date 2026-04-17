@@ -1,3 +1,5 @@
+Hello
+
 # NeetCode Solutions — @elja
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-ys5wmd6g`
